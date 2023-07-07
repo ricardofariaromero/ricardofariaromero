@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **a coordinator in the car leasing industry**
 
-- 🌱 I’m currently learning **Data Science and Analytics**
+- 🌱 I’m constantly improving my skills on **Data Science and Analytics**
 
 - 🤝 I’m always trying to apply **the power of data to my job.**
 
